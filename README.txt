@@ -1,1 +1,0 @@
-VERSION 3: dedicated pages for all four books and Amazon purchase link for Hellbound Luck. Upload all root files plus assets to the existing GitHub repository.
