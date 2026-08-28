@@ -1,39 +1,5 @@
-JOHNNY DUFFY AUTHOR WEBSITE — VERSION 1
-
-FILES TO UPLOAD TO GITHUB:
-- index.html
-- styles.css
-- script.js
-- assets/hellbound-luck-cover.jpg
-
-EASIEST GITHUB PAGES SETUP
-1. Create a new PUBLIC repository. Suggested name: johnnyduffyauthor
-2. Upload ALL files and the assets folder from this package.
-3. Commit the files to the main branch.
-4. Open repository Settings.
-5. Click Pages in the left sidebar.
-6. Under Build and deployment:
-   Source: Deploy from a branch
-   Branch: main
-   Folder: / (root)
-7. Click Save.
-8. Wait a minute or two. GitHub will show a temporary github.io address.
-9. Open that temporary address and make sure the site works.
-10. Only after the site works should you connect johnnyduffyauthor.com.
-
-CUSTOM DOMAIN — DO THIS AFTER THE GITHUB SITE WORKS
-In GitHub Pages, enter:
-johnnyduffyauthor.com
-as the Custom domain.
-
-Then return to IONOS DNS. We will update the web-hosting records together.
-Do not delete the IONOS mail-related DNS records.
-
-PLACEHOLDERS IN VERSION 1
-- Buy button has no store URL yet.
-- Facebook button has no page URL yet.
-- contact@johnnyduffyauthor.com is shown but will not receive mail until that mailbox/forwarding is configured.
-- The site now uses the supplied Hellbound Luck retail cover.
-
-IMPORTANT
-Do not buy GitHub hosting. GitHub Pages is free for this static site.
+JOHNNY DUFFY AUTHOR WEBSITE — VERSION 2
+Upload index.html, styles.css, script.js and the entire assets folder to the ROOT of the existing JohnnyDuffyAuthor GitHub repository, then commit the changes.
+GitHub Pages will rebuild automatically. Do not change the Pages branch/root settings.
+Version 2 redesigns the site around the complete Convergence Saga and includes all four supplied covers plus the dark author portrait.
+Current placeholders: store/purchase link, Facebook URL, and contact@johnnyduffyauthor.com until email is configured.
