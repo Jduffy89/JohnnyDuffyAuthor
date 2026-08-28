@@ -4,7 +4,7 @@ FILES TO UPLOAD TO GITHUB:
 - index.html
 - styles.css
 - script.js
-- assets/hellbound-luck-cover.png
+- assets/hellbound-luck-cover.jpg
 
 EASIEST GITHUB PAGES SETUP
 1. Create a new PUBLIC repository. Suggested name: johnnyduffyauthor
@@ -33,7 +33,7 @@ PLACEHOLDERS IN VERSION 1
 - Buy button has no store URL yet.
 - Facebook button has no page URL yet.
 - contact@johnnyduffyauthor.com is shown but will not receive mail until that mailbox/forwarding is configured.
-- The current book image was extracted from the title page of the print-ready manuscript and can be replaced with the final retail cover later.
+- The site now uses the supplied Hellbound Luck retail cover.
 
 IMPORTANT
 Do not buy GitHub hosting. GitHub Pages is free for this static site.
